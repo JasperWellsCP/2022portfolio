@@ -164,7 +164,7 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(438.9,327.6,565.5,39.19999999999999);
 // library properties:
 lib.properties = {
-	id: 'B00C65F2A02648DA91FB735EE828D2D0',
+	id: 'CEA5A6AB64A84C4EA72DE923AB42CE2C',
 	width: 960,
 	height: 640,
 	fps: 24,
@@ -209,7 +209,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['B00C65F2A02648DA91FB735EE828D2D0'] = {
+an.compositions['CEA5A6AB64A84C4EA72DE923AB42CE2C'] = {
 	getStage: function() { return exportRoot.stage; },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
